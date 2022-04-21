@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	$('.mobile-view').hide();
+	$('.mobile-bar').click(function(){
+		$('.mobile-view').slideToggle();
+	});
+	$('.close-button').click(function(){
+		$('.mobile-view').hide();
+	});
+});
