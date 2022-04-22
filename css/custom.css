@@ -45,13 +45,13 @@ footer ul li a:hover{font-size:14px; color:#fecc1f; text-decoration:none;}
 .btn-cancel a{font-size:16px; color:#fff; text-decoration:none;}
 .btn-cancel a:hover{font-size:16px; color:#fff; text-decoration:none;}
 
-.hero{background:#fff; min-height:895px;}
+.hero{background:#fff; min-height:1000px;}
 /* img.img01{width:325px; height:385px; margin:0px 50px 0px 0px; position:relative; top:-105px; border-radius:15px;}  */
 /* img.img02{width:325px; height:385px; margin:0px 45px 0px 0px; position:relative; top:-35px; border-radius:15px;} */
 /* img.img03{width:325px; height:385px; margin:0px 35px 0px 0px; position:relative; top:-70px; border-radius:15px;} */
 /* img.img04{width:325px; height:385px; margin:0px 40px 0px 0px; position:relative; top:-95px; border-radius:15px;}  */
 /* .four-images{margin: 10px;}0 */
-.main-content{text-align:center; margin:0px; padding:2% 0% 12% 0%;}
+.main-content{text-align:center; margin:0px; padding:2% 0% 17% 0%;}
 .main-content h2{font-size:56px; font-weight:normal; line-height:46px; margin:0px!important; padding:0px 0px 15px 0px!important;}
 .main-content h2 span{font-size:26px; color:#333; font-weight:normal; line-height:30px; margin:0px; padding:0px 0px 5px 0px;}
 .main-content p{font-size:16px!important; color:#000!important; text-align:center!important; line-height:24px!important; padding:0px!important; margin:0px!important;}
